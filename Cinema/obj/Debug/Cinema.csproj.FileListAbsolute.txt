@@ -1,0 +1,52 @@
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\bin\Debug\Cinema.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\bin\Debug\Cinema.exe
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\bin\Debug\Cinema.pdb
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.exe
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.pdb
+c:\users\user\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.MainForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.Choise.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.AddTicket.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\Npgsql.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\Npgsql.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\Npgsql.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Cinema\Cinema\bin\Debug\System.ValueTuple.xml
+C:\Users\User\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.AddMovie.resources
+C:\Users\User\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.EditTicket.resources
+C:\Users\User\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.EditMovie.resources
+C:\Users\User\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.Statistics.resources
+C:\Users\User\documents\visual studio 2013\Projects\Cinema\Cinema\obj\Debug\Cinema.Autorization.resources
+E:\Саня\Cinema\Cinema\bin\Debug\Cinema.exe.config
+E:\Саня\Cinema\Cinema\bin\Debug\Cinema.exe
+E:\Саня\Cinema\Cinema\bin\Debug\Cinema.pdb
+E:\Саня\Cinema\Cinema\bin\Debug\Npgsql.dll
+E:\Саня\Cinema\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Саня\Cinema\Cinema\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Саня\Cinema\Cinema\bin\Debug\System.ValueTuple.dll
+E:\Саня\Cinema\Cinema\bin\Debug\Npgsql.pdb
+E:\Саня\Cinema\Cinema\bin\Debug\Npgsql.xml
+E:\Саня\Cinema\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Саня\Cinema\Cinema\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Саня\Cinema\Cinema\bin\Debug\System.ValueTuple.xml
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.AddMovie.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.AddTicket.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.EditMovie.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.EditTicket.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.MainForm.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.Choise.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.Autorization.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.Statistics.resources
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.exe
+E:\Саня\Cinema\Cinema\obj\Debug\Cinema.pdb
