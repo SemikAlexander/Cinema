@@ -81,7 +81,7 @@ namespace Cinema
         {
             using (SHA1Managed sha1 = new SHA1Managed())
             {
-                var hash = (new SHA1Managed()).ComputeHash(Encoding.UTF8.GetBytes(input));
+                var hash = sha1.ComputeHash(Encoding.UTF8.GetBytes(input));
                 return string.Join("", hash.Select(b => b.ToString("x2")).ToArray());
             }
         }
